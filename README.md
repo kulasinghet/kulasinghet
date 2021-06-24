@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Thevindu Kulasinghe
-- 👀 I'm a computer science undergraduate
-- 🌱 Although my major is CS I'm learning management accounting also 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m **Thevindu Kulasinghe**
+- 👀 I'm a **Computer science** undergraduate
+- 🌱 Although my major is CS I'm learning **management accounting** too** 
+
 
 <!---
 kulasinghet/kulasinghet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
