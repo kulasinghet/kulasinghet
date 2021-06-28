@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Thevindu Kulasinghe**
 - 👀 I'm a **Computer science** undergraduate
-- 🌱 Although my major is CS I'm learning **management accounting** too** 
+- 🌱 Although my major is CS I'm learning **management accounting** too
 
 
 <!---
