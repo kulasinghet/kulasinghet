@@ -26,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kulasinghet&show_icons=true&locale=en&layout=compact" alt="kulasinghet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kulasinghet&show_icons=true&locale=en" alt="kulasinghet" /></p>
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
