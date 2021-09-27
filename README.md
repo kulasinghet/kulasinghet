@@ -1,4 +1,5 @@
-- 👋 Hi, I’m **Thevindu Kulasinghe**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+Visitor;I'm+Thevindu+Kulasinghe)](https://git.io/typing-svg)
+
 - 👀 I'm a **Computer science** undergraduate
 - 🌱 Although my major is CS I'm learning **management accounting** too
 
