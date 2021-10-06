@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/49369577/97047278-562d0200-1596-11eb-8a4f-656b2acf2b6a.gif" alt="👋 Hi there! I'm Thevindu Kulasinghe" title="👋 Hi there! I'm Thevindu Kulasinghe"/>
+
 
 <h1 align="center">Hi 👋, I'm Thevindu Kulasinghe</h1>
 <h3 align="center">I'm a forever student and software engineer from Sri Lanka</h3>
