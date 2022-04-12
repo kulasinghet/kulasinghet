@@ -18,4 +18,6 @@
   
   
 
-<h3  align  =  "justify"  > Find me on: <a  href  =  "https://www.linkedin.com/in/kulasinghet/"><span style = "vertical-align:middle">  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>  </a> </span>
+  <h3  align  =  "justify"  > Find me on:  </h3>
+  
+  <a  href  =  "https://www.linkedin.com/in/kulasinghet/"><span style = "vertical-align:middle">  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>  </a>
