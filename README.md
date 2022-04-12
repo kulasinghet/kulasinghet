@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/kulasinghet" target="blank"><img src="https://img.shields.io/twitter/follow/kulasinghet?logo=twitter&style=for-the-badge" alt="kulasinghet" /></a> </p>
+<a href="https://twitter.com/kulasinghet?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @kulasinghet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 - 💬 Ask me about <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 
