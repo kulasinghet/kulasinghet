@@ -20,6 +20,8 @@
 
   <h3  align  =  "justify"  > Find me on:  </h3>
   
+  <br>
+  
   <a  href  =  "https://www.linkedin.com/in/kulasinghet/"><span style = "vertical-align:middle">  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>  </a>
     <a  href  =  "https://www.facebook.com/thevinduk"><span style = "vertical-align:middle">  <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>  </a>
       <a  href  =  "https://twitter.com/kulasinghet"><span style = "vertical-align:middle">  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>  </a>
