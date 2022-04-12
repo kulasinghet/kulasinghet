@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Thevindu Kulasinghe</h1>
-<h3 align="center">I'm a forever student and software engineer from Sri Lanka</h3>
+<h3 align="center">CS Undergraduate | CIMA Student | Finance Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kulasinghet&label=Profile%20views&color=0e75b6&style=flat" alt="kulasinghet" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kulasinghet&show_icons=true&locale=en" alt="kulasinghet" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kulasinghet" alt="kulasinghet" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/kulasinghet" target="blank"><img src="https://img.shields.io/twitter/follow/kulasinghet?logo=twitter&style=for-the-badge" alt="kulasinghet" /></a> </p>
 
@@ -27,6 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kulasinghet&show_icons=true&locale=en&layout=compact" alt="kulasinghet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kulasinghet&show_icons=true&locale=en" alt="kulasinghet" /></p>
 
 
