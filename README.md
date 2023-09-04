@@ -148,6 +148,12 @@
 
 ###
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.2%20million%20lines%20of%20code-blue)
+
+![Thevindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulasinghet&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulasinghet&layout=compact&theme=radical)
+
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kulasinghet" alt="Layout with last medium posts"  />
 </div>
