@@ -138,13 +138,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 335.1 kB Used in GitHub's Storage 
+> 📦 336.5 kB Used in GitHub's Storage 
  > 
 > 🏆 654 Contributions in the Year 2023
  > 
@@ -220,7 +220,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2023 18:44:17 UTC
+ Last Updated on 05/10/2023 18:44:22 UTC
 <!--END_SECTION:waka-->
 
 ###
