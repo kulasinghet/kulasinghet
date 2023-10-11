@@ -144,7 +144,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 338.0 kB Used in GitHub's Storage 
+> 📦 338.4 kB Used in GitHub's Storage 
  > 
 > 🏆 654 Contributions in the Year 2023
  > 
@@ -181,21 +181,16 @@ Sunday                   328 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     4 hrs 2 mins        ███████████████████████░░   92.50 % 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Properties               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-ActionScript 3           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 4 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mypay                    4 hrs 11 mins       ████████████████████████░   95.74 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -215,7 +210,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2023 18:42:51 UTC
+ Last Updated on 11/10/2023 18:43:58 UTC
 <!--END_SECTION:waka-->
 
 ###
