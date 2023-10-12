@@ -144,7 +144,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 338.4 kB Used in GitHub's Storage 
+> 📦 338.7 kB Used in GitHub's Storage 
  > 
 > 🏆 654 Contributions in the Year 2023
  > 
@@ -210,7 +210,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2023 18:43:58 UTC
+ Last Updated on 12/10/2023 18:43:58 UTC
 <!--END_SECTION:waka-->
 
 ###
