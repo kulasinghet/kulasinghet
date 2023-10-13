@@ -136,7 +136,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
@@ -144,7 +144,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 338.7 kB Used in GitHub's Storage 
+> 📦 338.9 kB Used in GitHub's Storage 
  > 
 > 🏆 654 Contributions in the Year 2023
  > 
@@ -181,16 +181,23 @@ Sunday                   328 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     24 mins             ████████████████░░░░░░░░░   63.24 % 
+YAML                     11 mins             ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+GitIgnore file           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hungry-main              28 mins             ██████████████████░░░░░░░   73.86 % 
+E-commerce-Complete-Flutt8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+fashion_app              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +217,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2023 18:43:58 UTC
+ Last Updated on 13/10/2023 18:43:29 UTC
 <!--END_SECTION:waka-->
 
 ###
