@@ -144,7 +144,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 337.0 kB Used in GitHub's Storage 
+> 📦 337.5 kB Used in GitHub's Storage 
  > 
 > 🏆 658 Contributions in the Year 2023
  > 
@@ -181,21 +181,16 @@ Sunday                   328 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Dart                     16 mins             ██████████████░░░░░░░░░░░   56.36 % 
-Java Properties          11 mins             ██████████░░░░░░░░░░░░░░░   38.71 % 
-GitIgnore file           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bmv_demo_android_app     27 mins             ████████████████████████░   94.06 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -215,7 +210,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2023 18:43:13 UTC
+ Last Updated on 28/10/2023 18:42:28 UTC
 <!--END_SECTION:waka-->
 
 ###
