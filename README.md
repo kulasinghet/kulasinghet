@@ -31,7 +31,7 @@ I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passion
 
 🔭 I’m currently working on **Enabling search and product discovery** at Sysco LABS<br>
 🌱 I’m currently learning **Spring MicroServices and React JS**<br>
-👯 I’m always looking forward to giving back to the community
+👯 I’m always looking forward to giving back to the community<br>
 💬 Ask me about **DevOps and Software Engineering**<br>
 📫 How to reach me: **kulasinghet@gmail.com**<br>
 😄 Pronouns: **He/Him**<br>
