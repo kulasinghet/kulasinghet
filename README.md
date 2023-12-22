@@ -23,13 +23,19 @@
 
 <h1 align="center">Hello World 🌏</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Thevindu Kulasinghe from Sri Lanka<br><br>- 🔭 I’m working as .NET developer (Internship)<br>- 📚 I'm currently learning .NET<br>- ⚡ In my free time I giving back to the community</p>
+## 🚀 About Me
+I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passionate about **Bridging Tech and Supply Chain Excellence**. As a computer science student at the **University of Colombo School of Computing**, I navigate the intricate realms of technology and business, with a special focus on **Supply Chain Management**.
+
+🔭 I’m currently working on **Enabling search and product discovery** at Sysco LABS<br>
+🌱 I’m currently learning **Spring MicroServices and React JS**<br>
+👯 I’m always looking forward to giving back to the community
+💬 Ask me about **DevOps and Software Engineering**<br>
+📫 How to reach me: **kulasinghet@gmail.com**<br>
+😄 Pronouns: **He/Him**<br>
+
 
 ###
 
