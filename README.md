@@ -224,16 +224,9 @@ Python                   3 repos             █░░░░░░░░░░�
 
 ###
 
-<img src="https://raw.githubusercontent.com/kulasinghet/kulasinghet/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/kulasinghet/kulasinghet/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
 <a href="https://app.daily.dev/kulasinghet"><img src="https://api.daily.dev/devcards/cff343a49fb9403c85d02bc5f24331a0.png?r=foi" width="400" alt="Thevindu Kulasinghe's Dev Card"/></a>
-
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kulasinghet" alt="Layout with last medium posts"  />
-</div>
-
-###
 
