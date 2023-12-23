@@ -224,7 +224,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 ###
 
-![snake animation](https://github.com/kulasinghet/blob/output/github-contribution-grid-snake2.svg)
+![snake animation]([https://github.com/kulasinghet/blob/output/github-contribution-grid-snake2.svg](https://github.com/kulasinghet/kulasinghet/blob/output/github-contribution-grid-snake2.svg))
 
 ###
 
