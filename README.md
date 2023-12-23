@@ -224,8 +224,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 ###
 
-![snake animation]([https://github.com/kulasinghet/blob/output/github-contribution-grid-snake2.svg](https://github.com/kulasinghet/kulasinghet/blob/output/github-contribution-grid-snake2.svg))
-
+![snake animation](https://github.com/kulasinghet/kulasinghet/blob/output/github-contribution-grid-snake2.svg)
 ###
 
 <a href="https://app.daily.dev/kulasinghet"><img src="https://api.daily.dev/devcards/cff343a49fb9403c85d02bc5f24331a0.png?r=foi" width="400" alt="Thevindu Kulasinghe's Dev Card"/></a>
