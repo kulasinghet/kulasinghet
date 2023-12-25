@@ -142,7 +142,7 @@ I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passion
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
 
@@ -150,7 +150,7 @@ I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passion
 
 **🐱 My GitHub Data** 
 
-> 📦 340.6 kB Used in GitHub's Storage 
+> 📦 341.1 kB Used in GitHub's Storage 
  > 
 > 🏆 714 Contributions in the Year 2023
  > 
@@ -187,19 +187,19 @@ Sunday                   332 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               11 hrs 2 mins       ███████████████████░░░░░░   77.16 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JavaScript               9 hrs 27 mins       ██████████████████░░░░░░░   71.50 % 
+JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-WebStorm                 11 hrs 13 mins      ████████████████████░░░░░   78.39 % 
-IntelliJ                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-VS Code                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+WebStorm                 9 hrs 52 mins       ███████████████████░░░░░░   74.73 % 
+IntelliJ                 1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+VS Code                  1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 
 💻 Operating System: 
-Windows                  14 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -219,7 +219,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2023 18:42:56 UTC
+ Last Updated on 25/12/2023 18:42:51 UTC
 <!--END_SECTION:waka-->
 
 ###
