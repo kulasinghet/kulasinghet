@@ -142,7 +142,7 @@ I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passion
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-945%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -152,7 +152,7 @@ I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passion
 
 > 📦 362.5 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2024
+> 🏆 20 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -187,17 +187,17 @@ Sunday                   338 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               10 hrs 40 mins      ███████████████████████░░   90.57 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Java                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+JavaScript               10 hrs 21 mins      ████████████████████████░   96.07 % 
+Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Intellijidea             11 hrs 47 mins      █████████████████████████   100.00 % 
+Intellijidea             10 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -217,7 +217,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2024 18:39:24 UTC
+ Last Updated on 22/02/2024 18:39:25 UTC
 <!--END_SECTION:waka-->
 
 ###
