@@ -142,7 +142,7 @@ I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passion
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -150,7 +150,7 @@ I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passion
 
 **🐱 My GitHub Data** 
 
-> 📦 363.8 kB Used in GitHub's Storage 
+> 📦 364.2 kB Used in GitHub's Storage 
  > 
 > 🏆 64 Contributions in the Year 2024
  > 
@@ -187,18 +187,18 @@ Sunday                   351 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               1 hr 19 mins        ████████████░░░░░░░░░░░░░   49.36 % 
-Text                     41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-HTTP Request             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Text                     41 mins             ████████████░░░░░░░░░░░░░   49.12 % 
+HTTP Request             14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████░░░░░░░░░░░░   52.23 % 
-Intellijidea             1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.77 % 
+Intellijidea             1 hr 16 mins        ███████████████████████░░   90.93 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 💻 Operating System: 
-Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -218,7 +218,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2024 18:38:46 UTC
+ Last Updated on 24/03/2024 18:38:42 UTC
 <!--END_SECTION:waka-->
 
 ###
