@@ -152,6 +152,8 @@ I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passion
 
 > 📦 420.6 kB Used in GitHub's Storage 
  > 
+> 🏆 89 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -217,7 +219,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 18:39:30 UTC
+ Last Updated on 03/05/2024 18:39:28 UTC
 <!--END_SECTION:waka-->
 
 ###
