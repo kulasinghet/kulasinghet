@@ -27,7 +27,7 @@
 ###
 
 ## 🚀 About Me
-I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passionate about **Bridging Tech and Supply Chain Excellence**. As a computer science student at the **University of Colombo School of Computing**, I navigate the intricate realms of technology and business, with a special focus on **Supply Chain Management**.
+I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionate about **Bridging Tech and Supply Chain Excellence**. As a computer science graduate at the **University of Colombo School of Computing**, I navigate the intricate realms of technology and business, with a special focus on **Supply Chain Management**.
 
 🔭 I’m currently working on **Enabling search and product discovery** at Sysco LABS<br>
 🌱 I’m currently learning **Spring MicroServices and React JS**<br>
@@ -99,8 +99,6 @@ I'm currently an **Intern - Software Engineering at Sysco LABS**, deeply passion
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
