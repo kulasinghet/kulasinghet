@@ -136,7 +136,7 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -144,7 +144,9 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 
 **🐱 My GitHub Data** 
 
-> 📦 423.9 kB Used in GitHub's Storage 
+> 📦 424.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 97 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -179,17 +181,17 @@ Sunday                   375 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               15 hrs 8 mins       ███████████████████████░░   91.93 % 
-JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-GitIgnore file           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+TypeScript               14 hrs 14 mins      ███████████████████████░░   91.47 % 
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+GitIgnore file           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-WebStorm                 16 hrs 28 mins      █████████████████████████   100.00 % 
+WebStorm                 15 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +211,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2024 18:39:57 UTC
+ Last Updated on 30/05/2024 18:41:14 UTC
 <!--END_SECTION:waka-->
 
 ###
