@@ -136,7 +136,7 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -144,7 +144,9 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 
 **🐱 My GitHub Data** 
 
-> 📦 435.5 kB Used in GitHub's Storage 
+> 📦 435.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 105 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -179,18 +181,17 @@ Sunday                   389 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               1 hr 33 mins        █████████████████████░░░░   83.29 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Docker                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Makefile                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Docker                   45 mins             █████████████░░░░░░░░░░░░   51.67 % 
+TypeScript               38 mins             ███████████░░░░░░░░░░░░░░   43.43 % 
+Makefile                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 41 mins        ███████████████████████░░   91.05 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+VS Code                  48 mins             ██████████████░░░░░░░░░░░   55.59 % 
+WebStorm                 38 mins             ███████████░░░░░░░░░░░░░░   44.41 % 
 
 💻 Operating System: 
-Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +211,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2024 18:39:21 UTC
+ Last Updated on 09/06/2024 18:39:35 UTC
 <!--END_SECTION:waka-->
 
 ###
