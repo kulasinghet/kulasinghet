@@ -146,8 +146,6 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 
 > 📦 435.7 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 47 Public Repositories 
@@ -181,14 +179,13 @@ Sunday                   362 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    26 mins             ████████████████████████░   97.58 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Other                    26 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+Mac                      26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -208,7 +205,7 @@ Dart                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 18:39:56 UTC
+ Last Updated on 01/07/2024 18:41:24 UTC
 <!--END_SECTION:waka-->
 
 ###
