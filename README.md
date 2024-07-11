@@ -136,7 +136,7 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -145,6 +145,8 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 **🐱 My GitHub Data** 
 
 > 📦 435.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 89 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -179,18 +181,18 @@ Sunday                   362 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Docker                   1 hr 17 mins        ████████████████░░░░░░░░░   64.06 % 
-PHP                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-GitIgnore file           8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Docker                   1 hr 17 mins        ███████████████░░░░░░░░░░   60.52 % 
+PHP                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+GitIgnore file           8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 58 mins        ████████████████████████░   97.95 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+IntelliJ IDEA            2 hrs 3 mins        ████████████████████████░   96.23 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 💻 Operating System: 
-Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +212,7 @@ Dart                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2024 18:42:01 UTC
+ Last Updated on 11/07/2024 18:40:55 UTC
 <!--END_SECTION:waka-->
 
 ###
