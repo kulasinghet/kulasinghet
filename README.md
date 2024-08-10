@@ -146,6 +146,8 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 
 > 📦 435.8 kB Used in GitHub's Storage 
  > 
+> 🏆 117 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 47 Public Repositories 
@@ -209,7 +211,7 @@ Dart                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2024 18:42:42 UTC
+ Last Updated on 10/08/2024 18:40:54 UTC
 <!--END_SECTION:waka-->
 
 ###
