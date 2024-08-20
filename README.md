@@ -136,7 +136,7 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -145,8 +145,6 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 **🐱 My GitHub Data** 
 
 > 📦 324.1 kB Used in GitHub's Storage 
- > 
-> 🏆 118 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -181,13 +179,17 @@ Sunday                   377 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     4 mins              ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Docker                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+HTTP Request             3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+GitIgnore file           2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +209,7 @@ Dart                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 18:42:25 UTC
+ Last Updated on 20/08/2024 18:42:57 UTC
 <!--END_SECTION:waka-->
 
 ###
