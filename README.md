@@ -136,7 +136,7 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C155%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C155%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -145,6 +145,8 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 **🐱 My GitHub Data** 
 
 > 📦 353.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 354 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -179,17 +181,17 @@ Sunday                   588 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Dart                     3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.68 % 
-YAML                     1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-TypeScript               1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-XML                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Dart                     3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
+YAML                     1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+TypeScript               1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Java                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  9 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +211,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2024 18:44:20 UTC
+ Last Updated on 29/10/2024 18:45:08 UTC
 <!--END_SECTION:waka-->
 
 ###
