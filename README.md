@@ -136,15 +136,15 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C175%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 353.7 kB Used in GitHub's Storage 
- > 
-> 🏆 371 Contributions in the Year 2024
+> 📦 354.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -152,6 +152,42 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
  > 
 > 🔑 47 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1325 commits        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+🌆 Daytime                1075 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+🌃 Evening                2037 commits        ██████████░░░░░░░░░░░░░░░   38.67 % 
+🌙 Night                  831 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   917 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Tuesday                  777 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Wednesday                512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Thursday                 734 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Friday                   690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Saturday                 1002 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Sunday                   636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -169,7 +205,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 18:43:35 UTC
+ Last Updated on 02/12/2024 18:45:44 UTC
 <!--END_SECTION:waka-->
 
 ###
