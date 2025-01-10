@@ -136,13 +136,15 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C176%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 353.9 kB Used in GitHub's Storage 
+> 📦 354.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -150,6 +152,42 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
  > 
 > 🔑 47 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1346 commits        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+🌆 Daytime                1092 commits        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+🌃 Evening                2146 commits        ██████████░░░░░░░░░░░░░░░   39.38 % 
+🌙 Night                  866 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   978 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Tuesday                  785 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Wednesday                530 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Thursday                 762 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Friday                   713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Saturday                 1026 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Sunday                   656 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -167,7 +205,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:45:42 UTC
+ Last Updated on 10/01/2025 18:45:05 UTC
 <!--END_SECTION:waka-->
 
 ###
