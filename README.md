@@ -144,7 +144,9 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 
 **🐱 My GitHub Data** 
 
-> 📦 359.0 kB Used in GitHub's Storage 
+> 📦 359.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 63 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -205,7 +207,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2025 18:44:01 UTC
+ Last Updated on 21/04/2025 18:45:36 UTC
 <!--END_SECTION:waka-->
 
 ###
