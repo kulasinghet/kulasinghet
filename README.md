@@ -138,7 +138,7 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C176%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
 
@@ -146,7 +146,7 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 
 > 📦 359.3 kB Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2025
+> 🏆 71 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -154,6 +154,42 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
  > 
 > 🔑 48 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1357 commits        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+🌆 Daytime                1143 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+🌃 Evening                2374 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
+🌙 Night                  963 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1041 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Tuesday                  813 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                575 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Thursday                 818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   755 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Saturday                 1091 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Sunday                   744 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -171,7 +207,7 @@ Dart                     8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2025 18:58:07 UTC
+ Last Updated on 06/06/2025 18:47:12 UTC
 <!--END_SECTION:waka-->
 
 ###
