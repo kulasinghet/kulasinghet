@@ -146,6 +146,8 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 
 > 📦 359.4 kB Used in GitHub's Storage 
  > 
+> 🏆 72 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 44 Public Repositories 
@@ -155,9 +157,9 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1357 commits        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+🌞 Morning                1358 commits        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
 🌆 Daytime                1143 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-🌃 Evening                2374 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
+🌃 Evening                2374 commits        ██████████░░░░░░░░░░░░░░░   40.66 % 
 🌙 Night                  963 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -169,7 +171,7 @@ Wednesday                575 commits         ██░░░░░░░░░�
 Thursday                 818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 Friday                   755 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 Saturday                 1091 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Sunday                   744 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Sunday                   745 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 ```
 
 
@@ -205,7 +207,7 @@ Dart                     8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2025 18:45:20 UTC
+ Last Updated on 08/06/2025 18:46:00 UTC
 <!--END_SECTION:waka-->
 
 ###
