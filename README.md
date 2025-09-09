@@ -179,18 +179,13 @@ Sunday                   815 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Dart                     3 hrs 37 mins       █████████████████████░░░░   84.02 % 
-JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           3 hrs 38 mins       █████████████████████░░░░   84.11 % 
-WebStorm                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +205,7 @@ Dart                     8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 18:47:11 UTC
+ Last Updated on 09/09/2025 18:46:46 UTC
 <!--END_SECTION:waka-->
 
 ###
