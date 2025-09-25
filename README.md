@@ -136,7 +136,7 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C184%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -146,7 +146,7 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 
 > 📦 359.9 kB Used in GitHub's Storage 
  > 
-> 🏆 224 Contributions in the Year 2025
+> 🏆 226 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -181,16 +181,15 @@ Sunday                   868 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Dart                     20 mins             ████████████████░░░░░░░░░   63.06 % 
-JavaScript               12 mins             █████████░░░░░░░░░░░░░░░░   36.94 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Dart                     1 hr 11 mins        █████████████████████░░░░   85.61 % 
+JavaScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 
 🔥 Editors: 
-Android Studio           20 mins             ████████████████░░░░░░░░░   63.06 % 
-WebStorm                 12 mins             █████████░░░░░░░░░░░░░░░░   36.94 % 
+Android Studio           1 hr 11 mins        █████████████████████░░░░   85.61 % 
+WebStorm                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +209,7 @@ Dart                     8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2025 18:47:41 UTC
+ Last Updated on 25/09/2025 18:49:18 UTC
 <!--END_SECTION:waka-->
 
 ###
