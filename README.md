@@ -136,6 +136,8 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C204%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.8%20million%20lines%20of%20code-blue)
@@ -152,6 +154,47 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
  > 
 > 🔑 48 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1864 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+🌆 Daytime                1384 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+🌃 Evening                3931 commits        ████████████░░░░░░░░░░░░░   47.14 % 
+🌙 Night                  1160 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1508 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Tuesday                  1061 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Wednesday                904 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Thursday                 1099 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Friday                   1139 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Saturday                 1591 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Sunday                   1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+TypeScript               12 hrs 29 mins      ███████████████████████░░   93.45 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+
+🔥 Editors: 
+WebStorm                 13 hrs 19 mins      █████████████████████████   99.62 % 
+Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+💻 Operating System: 
+Mac                      13 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -169,7 +212,7 @@ Dart                     8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 18:47:16 UTC
+ Last Updated on 17/11/2025 18:49:31 UTC
 <!--END_SECTION:waka-->
 
 ###
