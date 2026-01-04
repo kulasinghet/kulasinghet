@@ -136,6 +136,8 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2036%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.07%20million%20lines%20of%20code-blue)
@@ -152,6 +154,42 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
  > 
 > 🔑 48 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2081 commits        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+🌆 Daytime                1483 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+🌃 Evening                4541 commits        ████████████░░░░░░░░░░░░░   48.62 % 
+🌙 Night                  1235 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1647 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Tuesday                  1164 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Wednesday                1035 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Thursday                 1216 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Friday                   1284 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Saturday                 1840 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Sunday                   1154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -169,7 +207,7 @@ Dart                     8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:49:39 UTC
+ Last Updated on 04/01/2026 18:50:21 UTC
 <!--END_SECTION:waka-->
 
 ###
