@@ -136,11 +136,11 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.07%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.07%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -158,20 +158,20 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 
 ```text
 🌞 Morning                2081 commits        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-🌆 Daytime                1483 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-🌃 Evening                4541 commits        ████████████░░░░░░░░░░░░░   48.62 % 
-🌙 Night                  1235 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+🌆 Daytime                1484 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+🌃 Evening                4541 commits        ████████████░░░░░░░░░░░░░   48.61 % 
+🌙 Night                  1236 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   1647 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Tuesday                  1164 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Tuesday                  1165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
 Wednesday                1035 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Thursday                 1216 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Friday                   1284 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Thursday                 1217 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Friday                   1284 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 Saturday                 1840 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Sunday                   1154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Sunday                   1154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 ```
 
 
@@ -207,7 +207,7 @@ Dart                     8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:50:21 UTC
+ Last Updated on 05/01/2026 18:55:03 UTC
 <!--END_SECTION:waka-->
 
 ###
