@@ -136,13 +136,15 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2036%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.02%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 360.7 kB Used in GitHub's Storage 
+> 📦 360.8 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -152,6 +154,42 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
  > 
 > 🔑 48 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2280 commits        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+🌆 Daytime                1581 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+🌃 Evening                5134 commits        ████████████░░░░░░░░░░░░░   49.53 % 
+🌙 Night                  1370 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1853 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Tuesday                  1302 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Wednesday                1126 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Thursday                 1320 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Friday                   1405 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Saturday                 2078 commits        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Sunday                   1281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -169,7 +207,7 @@ Dart                     8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 18:54:50 UTC
+ Last Updated on 02/02/2026 18:57:21 UTC
 <!--END_SECTION:waka-->
 
 ###
