@@ -152,42 +152,6 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
  > 
 > 🔑 50 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1010 commits        ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-🌆 Daytime                875 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-🌃 Evening                1157 commits        ████████░░░░░░░░░░░░░░░░░   33.18 % 
-🌙 Night                  445 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   566 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Tuesday                  441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Wednesday                390 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Thursday                 550 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Friday                   565 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Saturday                 608 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Sunday                   367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -205,7 +169,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 19:11:44 UTC
+ Last Updated on 23/05/2026 18:54:20 UTC
 <!--END_SECTION:waka-->
 
 ###
