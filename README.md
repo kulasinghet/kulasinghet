@@ -136,6 +136,8 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C213%20hrs%2047%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.85%20million%20lines%20of%20code-blue?style=flat)
@@ -152,6 +154,42 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
  > 
 > 🔑 52 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1025 commits        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+🌆 Daytime                935 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+🌃 Evening                1233 commits        ████████░░░░░░░░░░░░░░░░░   33.49 % 
+🌙 Night                  489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   569 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Tuesday                  491 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Wednesday                442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Thursday                 616 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Friday                   566 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Saturday                 631 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Sunday                   367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -169,7 +207,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 20:00:23 UTC
+ Last Updated on 25/07/2026 19:49:34 UTC
 <!--END_SECTION:waka-->
 
 ###
