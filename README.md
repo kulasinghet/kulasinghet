@@ -142,38 +142,38 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.85%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 419.9 kB Used in GitHub's Storage 
+> 📦 422.0 kB Used in GitHub's Storage 
  > 
-> 🏆 127 Contributions in the Year 2026
+> 🏆 216 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 45 Public Repositories 
  > 
-> 🔑 52 Private Repositories 
+> 🔑 53 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1025 commits        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-🌆 Daytime                935 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-🌃 Evening                1233 commits        ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌙 Night                  489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+🌞 Morning                1045 commits        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+🌆 Daytime                979 commits         ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+🌃 Evening                1251 commits        ████████░░░░░░░░░░░░░░░░░   33.19 % 
+🌙 Night                  494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   569 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Tuesday                  491 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Wednesday                442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Thursday                 616 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Friday                   566 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Saturday                 631 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Sunday                   367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Monday                   572 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Tuesday                  501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Wednesday                516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Thursday                 616 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Friday                   566 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Saturday                 631 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Sunday                   367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 ```
 
 
@@ -201,11 +201,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               28 repos            ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-TypeScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-PHP                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+JavaScript               28 repos            ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+TypeScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+PHP                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 
 
@@ -215,7 +215,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:14:16 UTC
+ Last Updated on 05/08/2026 20:14:22 UTC
 <!--END_SECTION:waka-->
 
 ###
