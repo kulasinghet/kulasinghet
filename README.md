@@ -136,10 +136,6 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C195%20hrs%2035%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2046%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.89%20million%20lines%20of%20code-blue?style=flat)
@@ -156,48 +152,6 @@ I'm currently an **Associate Software Engineer at Sysco LABS**, deeply passionat
  > 
 > 🔑 53 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1045 commits        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-🌆 Daytime                979 commits         ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-🌃 Evening                1251 commits        ████████░░░░░░░░░░░░░░░░░   33.19 % 
-🌙 Night                  494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   572 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Tuesday                  501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Wednesday                516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Thursday                 616 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Friday                   566 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Saturday                 631 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Sunday                   367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -215,7 +169,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kulasinghet/kulasinghet/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:14:22 UTC
+ Last Updated on 07/08/2026 00:29:46 UTC
 <!--END_SECTION:waka-->
 
 ###
